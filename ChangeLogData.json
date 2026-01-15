@@ -1,0 +1,22 @@
+{
+   "changelogs": {
+     "2.0.2": {
+       "title": "Settings System Overhaul & Changelog UI",
+       "features": [
+         "Export/Import settings to share with others",
+         "Automatic backups to prevent data loss",
+         "New UI showing what's changed on update"
+       ],
+       "newModules": [],
+       "removedModules": [],
+       "notes": "Settings now stored in GorillaWare/Settings/"
+     },
+     "1.0.0": {
+       "title": "Initial Release",
+       "features": ["First public release"],
+       "newModules": [],
+       "removedModules": [],
+       "notes": ""
+     }
+   }
+ }
