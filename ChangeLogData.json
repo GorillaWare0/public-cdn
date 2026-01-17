@@ -1,5 +1,17 @@
 {
    "changelogs": {
+       "2.0.3": {
+       "title": "New tutorial & welcome screen",
+       "features": [
+         "New tutorial to show how everything works",
+          "Welcome screen for new users",
+       ],
+       "newModules": [
+   
+  ],
+       "removedModules": [],
+       "notes": "View tutorial in settings tab"
+     },
      "2.0.2": {
        "title": "Settings System Overhaul & Changelog UI",
        "features": [
