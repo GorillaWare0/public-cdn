@@ -16,23 +16,137 @@
     },
     {
       "title": "Menu Systems",
-      "subtitle": "Different ways to use GorillaWare",
+      "subtitle": "Three ways to access GorillaWare",
       "sections": [
         {
-          "header": "VR Options",
+          "header": "Available UIs",
           "bullets": [
-            "Wrist Menu: Appears on your wrist, use other hand to press buttons",
-            "Text UI: Text menu infront of you, navigate with joystick"
+            "Wrist Menu: Physical menu on your wrist (VR)",
+            "Text UI: Floating text menu controlled by joystick (VR)",
+            "PC UI: Traditional window with tabs (PC)"
+          ],
+          "note": "Switch UI type in: Modules > Core > UI > Settings > UI Type. The following pages explain each UI in detail."
+        }
+      ]
+    },
+    {
+      "title": "Wrist Menu (VR)",
+      "subtitle": "Physical menu on your wrist",
+      "sections": [
+        {
+          "header": "Activating the Menu",
+          "bullets": [
+            "Hold X button (default) to show the menu",
+            "Menu appears attached to your wrist",
+            "Release the button to hide the menu",
+            "Configurable for left or right hand"
           ]
         },
         {
-          "header": "PC",
+          "header": "Navigating",
           "bullets": [
-            "PC UI: UI Menu with tabs",
-            "Press F1 to toggle the PC UI on/off",
-            "Tabs: Modules, Players, Room, Settings"
-          ],
-          "note": "You can switch between UI types in: Modules Tab > Core > UI > Settings > UI Type"
+            "Use your other hand to touch buttons",
+            "Or enable laser pointer mode for interaction",
+            "6 buttons per page for categories/modules",
+            "Use arrows to change pages",
+            "Home button returns to category view"
+          ]
+        },
+        {
+          "header": "Enabling Modules",
+          "bullets": [
+            "Touch a module button to toggle on/off",
+            "Green = enabled, Grey = disabled",
+            "Darker colors = requirements not met"
+          ]
+        },
+        {
+          "header": "Customization",
+          "bullets": [
+            "Adjust position offsets and rotation in settings",
+            "Scale the menu size up or down",
+            "Switch between hand-touch and laser interaction"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Text UI (VR)",
+      "subtitle": "Floating text menu with joystick controls",
+      "sections": [
+        {
+          "header": "Navigation Controls",
+          "bullets": [
+            "Joystick Up/Down: Navigate through lists",
+            "Joystick Click: Select/Confirm",
+            "B Button: Go back",
+            "Joystick Left/Right: Quick toggle or adjust values"
+          ]
+        },
+        {
+          "header": "Menu Structure",
+          "bullets": [
+            "Categories shown at top level",
+            "Press down/click to enter a category",
+            "Modules listed vertically (6 per page)",
+            "Press down again to view module settings"
+          ]
+        },
+        {
+          "header": "Adjusting Settings",
+          "bullets": [
+            "Left/Right on joystick to change values",
+            "Hold joystick for 1.5s to reset all module settings",
+            "Quick press resets individual setting"
+          ]
+        },
+        {
+          "header": "Customization",
+          "bullets": [
+            "Choose left or right joystick for navigation",
+            "Adjust UI distance and vertical offset",
+            "Enable/disable smooth scrolling"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PC UI",
+      "subtitle": "Traditional window interface",
+      "sections": [
+        {
+          "header": "Opening the Menu",
+          "bullets": [
+            "Press F1 to toggle PC UI visibility",
+            "Drag the title bar to move the window",
+            "Click X to close"
+          ]
+        },
+        {
+          "header": "Modules Tab",
+          "bullets": [
+            "Category tabs filter modules by type",
+            "Search bar to find modules by name",
+            "Click checkbox to enable/disable",
+            "Click 'Settings' arrow to expand module options",
+            "Use sliders, +/- buttons, and arrows to adjust values"
+          ]
+        },
+        {
+          "header": "Players Tab",
+          "bullets": [
+            "Shows all players in the room with previews",
+            "Click a player for live camera view",
+            "Action buttons: Teleport, and more"
+          ]
+        },
+        {
+          "header": "Room & Settings Tabs",
+          "bullets": [
+            "Room: View current room, join/create by name, disconnect",
+            "Settings: Export/Import settings, restore backups",
+            "View Tutorial or Changelog buttons available"
+          ]
         }
       ]
     },
@@ -62,9 +176,9 @@
           "bullets": [
             "Click a module name to toggle it on/off",
             "Green = enabled, Grey = disabled",
-            "Some modules show requirements when they can't be used.",
-			"These requirements are for example that you need to be in a room, specific map, specific gamemode, etc.",
-			"You can still pre-enable modules when their requirements aren't met. They will enable automatically when the requirements are met."
+            "Some modules show requirements when they can't be used",
+            "Requirements include: being in a room, specific map, specific gamemode, etc.",
+            "You can pre-enable modules when requirements aren't met - they activate automatically when conditions are met"
           ]
         },
         {
@@ -72,7 +186,7 @@
           "bullets": [
             "Click the arrow next to a module to expand its settings",
             "Each module may have different options to customize",
-			"Settings are most easily changed no the PC UI, but they can also be changed from the Text UI"
+            "Settings are easiest to change on the PC UI, but can also be changed from the Text UI"
           ]
         }
       ]
@@ -86,7 +200,7 @@
           "bullets": [
             "Float/Int: Use sliders or +/- buttons to adjust values",
             "Bool: Toggle checkboxes on/off",
-            "Mode: Cycle through available options",
+            "Mode: Cycle through available options"
           ]
         },
         {
@@ -130,17 +244,20 @@
             "F1 toggles PC UI visibility",
             "Check the Settings tab for import/export options",
             "Backups are created automatically when settings change",
-            "The Players tab shows everyone in your room"
+            "The Players tab shows everyone in your room",
+            "Use the search bar on PC UI to quickly find modules",
+            "Pre-enable modules before joining a room to have them ready",
+			"Modules enabled state are persistent, they will save state even when restarting"
           ]
         },
         {
           "header": "Getting Help",
           "bullets": [
-            "Join the Discord for support and updates",
-            "Report bugs on the GitHub issues page",
+		  "Get help using the support channel in the Discord",
+            "Report bugs in the Discord",
             "Check the changelog for new features"
           ],
-          "note": "Have fun and use responsibly!"
+          "note": "Have fun!"
         }
       ]
     }
