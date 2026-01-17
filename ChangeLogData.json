@@ -5,9 +5,23 @@
        "features": [
          "Export/Import settings to share with others",
          "Automatic backups to prevent data loss",
-         "New UI showing what's changed on update"
+         "This UI showing what's changed on update"
        ],
-       "newModules": [],
+       "newModules": [
+    "Lag gun",
+    "Lag player (PCUI)",
+    "Freeze All Ghost Reactor",
+    "Blaster Aimbot",
+    "Blaster Control Gun",
+    "Blaster Fling Gun",
+    "Blaster Laser Spam",
+    "Blaster No Cooldown",
+    "Blaster Crash Gun",
+    "Blaster Fling All",
+    "Infinite Fuel",
+    "Infinite Platform",
+    "Unlock All Gadgets"
+  ]
        "removedModules": [],
        "notes": "Settings now stored in GorillaWare/Settings/"
      },
