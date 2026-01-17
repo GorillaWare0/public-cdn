@@ -1,1 +1,148 @@
-
+{
+  "pages": [
+    {
+      "title": "Welcome to GorillaWare",
+      "subtitle": "Your guide to getting started",
+      "sections": [
+        {
+          "header": "What is GorillaWare?",
+          "bullets": [
+            "A mod menu for Gorilla Tag",
+            "Works on both PC and VR"
+          ],
+          "note": "This tutorial will guide you through the basics. You can view it again anytime from the Settings tab."
+        }
+      ]
+    },
+    {
+      "title": "Menu Systems",
+      "subtitle": "Different ways to use GorillaWare",
+      "sections": [
+        {
+          "header": "VR Options",
+          "bullets": [
+            "Wrist Menu: Appears on your wrist, use other hand to press buttons",
+            "Text UI: Text menu infront of you, navigate with joystick"
+          ]
+        },
+        {
+          "header": "PC",
+          "bullets": [
+            "PC UI: UI Menu with tabs",
+            "Press F1 to toggle the PC UI on/off",
+            "Tabs: Modules, Players, Room, Settings"
+          ],
+          "note": "You can switch between UI types in: Modules Tab > Core > UI > Settings > UI Type"
+        }
+      ]
+    },
+    {
+      "title": "Module Categories",
+      "subtitle": "What each category contains",
+      "sections": [
+        {
+          "header": "Categories Overview",
+          "bullets": [
+            "Core: Essential systems (UI, Pointer System)",
+            "Movement: Fly, Noclip, Platforms, Speed, and more",
+            "Visual: ESP, Tracers, Nametags, Skeleton ESP",
+            "Misc: Utility features and tools",
+            "Trolling: Fun modules for messing around"
+          ],
+          "note": "Some modules may have requirements like being in a room or specific game mode."
+        }
+      ]
+    },
+    {
+      "title": "Using Modules",
+      "subtitle": "How to toggle and use modules",
+      "sections": [
+        {
+          "header": "Enabling Modules",
+          "bullets": [
+            "Click a module name to toggle it on/off",
+            "Green = enabled, Grey = disabled",
+            "Some modules show requirements when they can't be used.",
+			"These requirements are for example that you need to be in a room, specific map, specific gamemode, etc.",
+			"You can still pre-enable modules when their requirements aren't met. They will enable automatically when the requirements are met."
+          ]
+        },
+        {
+          "header": "Module Settings",
+          "bullets": [
+            "Click the arrow next to a module to expand its settings",
+            "Each module may have different options to customize",
+			"Settings are most easily changed no the PC UI, but they can also be changed from the Text UI"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module Settings",
+      "subtitle": "Customize module behavior",
+      "sections": [
+        {
+          "header": "Setting Types",
+          "bullets": [
+            "Float/Int: Use sliders or +/- buttons to adjust values",
+            "Bool: Toggle checkboxes on/off",
+            "Mode: Cycle through available options",
+          ]
+        },
+        {
+          "header": "Resetting Settings",
+          "bullets": [
+            "Use the Reset (R) button to reset a setting to default",
+            "Export/Import settings from the Settings tab"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keybinds",
+      "subtitle": "Quick activation controls",
+      "sections": [
+        {
+          "header": "Setting Keybinds",
+          "bullets": [
+            "Modules can have keybinds to enable functionality",
+            "Click 'Edit' next to a keybind to rebind it",
+            "PC: Use keyboard keys",
+            "VR: Use controller buttons"
+          ]
+        },
+        {
+          "header": "Key Combos",
+          "bullets": [
+            "Some keybinds support combos (Left Trigger + Right Trigger)",
+            "Clear a keybind by clicking 'Clear' while editing"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tips & Shortcuts",
+      "subtitle": "Useful information",
+      "sections": [
+        {
+          "header": "Quick Tips",
+          "bullets": [
+            "F1 toggles PC UI visibility",
+            "Check the Settings tab for import/export options",
+            "Backups are created automatically when settings change",
+            "The Players tab shows everyone in your room"
+          ]
+        },
+        {
+          "header": "Getting Help",
+          "bullets": [
+            "Join the Discord for support and updates",
+            "Report bugs on the GitHub issues page",
+            "Check the changelog for new features"
+          ],
+          "note": "Have fun and use responsibly!"
+        }
+      ]
+    }
+  ]
+}
