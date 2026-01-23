@@ -5,11 +5,18 @@
        "features": [
          "New tutorial to show how everything works",
           "Welcome screen for new users",
+          "New sound effects for notifications and wristmenu"
        ],
        "newModules": [
-   
+   "Made Pointer/Gun System better, added lock-on feature",
+          "Fix Voice Indicators",
+          "Fix Module List, also shows on pc now",
+          "Fix blaster mods (might require master to work properly)",
+          "WristMenu pointer fix",
+          "Ghost Monke fix",
+          "Invis Monke fix"
   ],
-       "removedModules": [],
+       "removedModules": ["Ghost Reactor Freeze All"],
        "notes": "View tutorial in settings tab"
      },
      "2.0.2": {
