@@ -13,7 +13,7 @@
           "Lagspike closest"
   ],
        "removedModules": [],
-       "notes": "Kick master can sometimes kick you from the lobby (rate limit) and it doesn't work on all players, if they have a strong pc for example :( "
+       "notes": "Kick master can sometimes kick you from the lobby (rate limit) and it doesn't work on all players, if they have a strong pc for example :( \nCurrently not sure if fling gun and projectile mods are working. Working on a fix."
      },
        "2.0.3": {
        "title": "New tutorial & welcome screen",
