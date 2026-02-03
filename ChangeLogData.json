@@ -1,5 +1,20 @@
 {
    "changelogs": {
+       "2.0.4": {
+       "title": "Kick Master, removed patched mods",
+       "features": [
+         "Fixed kick master, and it now works in all gamemodes.",
+          "Lag spike closest, useful for playing legit. You can lagspike the player that is trying to tag you.",
+          "Fixed some module requirements, like master mods that didn't have the correct requirements set."
+       ],
+       "newModules": [
+   "Kick Master Client",
+"Nametag ESP Colored names option",
+          "Lagspike closest"
+  ],
+       "removedModules": [],
+       "notes": "Kick master can sometimes kick you from the lobby (rate limit) and it doesn't work on all players, if they have a strong pc for example :( "
+     },
        "2.0.3": {
        "title": "New tutorial & welcome screen",
        "features": [
