@@ -1,5 +1,14 @@
 {
    "changelogs": {
+       "2.0.6": {
+       "title": "V2.0.6 Update",
+       "features": [
+       ],
+       "newModules": [
+  ],
+       "removedModules": ["Lag Mods (V2)"],
+       "notes": ""
+     },
       "2.0.5": {
        "title": "New overpowered mods!",
        "features": [
@@ -28,7 +37,7 @@
           "Unblind Gun"
   ],
        "removedModules": [],
-       "notes": "Use the kick master mods at own risk"
+       "notes": ""
      },
        "2.0.4": {
        "title": "Kick Master, removed patched mods",
