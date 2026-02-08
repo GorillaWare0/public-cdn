@@ -1,5 +1,32 @@
 {
    "changelogs": {
+      "2.0.5": {
+       "title": "New overpowered mods!",
+       "features": [
+         "Fixed menu for gorilla tag update",
+          "Loads of new OP mods to troll with",
+          "Fixed Fling Gun"
+       ],
+       "newModules": [
+   "Kick All V2",
+"Kick Gun",
+          "Crash Server",
+          "Freeze All",
+          "Kick On Join",
+          "Lag Closest V2",
+          "Lag All V2",
+          "Lag Gun V2",
+          "Lag Master Client",
+          "Mute Server",
+          "Deafen Gun",
+          "Deafen All",
+          "Close Room",
+          "Lock Room",
+          "Unlock Room",
+  ],
+       "removedModules": [],
+       "notes": ""
+     },
        "2.0.4": {
        "title": "Kick Master, removed patched mods",
        "features": [
