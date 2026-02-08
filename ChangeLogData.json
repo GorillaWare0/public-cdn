@@ -23,6 +23,9 @@
           "Close Room",
           "Lock Room",
           "Unlock Room",
+          "Blind Gun",
+          "Blind All",
+          "Unblind Gun"
   ],
        "removedModules": [],
        "notes": ""
