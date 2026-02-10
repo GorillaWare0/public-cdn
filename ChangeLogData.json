@@ -1,10 +1,30 @@
 {
    "changelogs": {
+       "2.0.7": {
+       "title": "V2.0.7 Update",
+       "features": [
+          "Change keybinds on the wristmenu"
+       ],
+       "newModules": [
+          ""
+  ],
+       "removedModules": [""],
+       "notes": ""
+     },
        "2.0.6": {
        "title": "V2.0.6 Update",
        "features": [
+          "Improved the wristmenu, shows keybinds for module in tooltip",
+          "Buttons are better sorted/organized",
+          "Fixed edge case button color not updating if module is disabled/enabled",
+          "Removed detected lag mods",
+          "Fixed detected mods",
+          "Improved Lag Aura"
        ],
        "newModules": [
+          "Kick master client is undetected",
+          "Kick All is undetected",
+          "Lag Gun, Aura, Server remain undetected"
   ],
        "removedModules": ["Lag Mods (V2)"],
        "notes": ""
