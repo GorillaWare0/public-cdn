@@ -6,7 +6,7 @@
           "Change keybinds on the wristmenu"
        ],
        "newModules": [
-          ""
+          "Fixed anti report sending 3 notifications instead of just 1"
   ],
        "removedModules": [""],
        "notes": ""
