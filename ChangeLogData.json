@@ -3,13 +3,16 @@
        "2.0.7": {
        "title": "V2.0.7 Update",
        "features": [
-          "Change keybinds on the wristmenu"
+          "You can now change settings on the wristmenu",
+          "Fixed (improved) kick all v2 and kick gun for the new game update",
+          "Fixed (improved) kick master client for new game update",
+          "Fixed anti report sending 3 notifications instead of just 1"
        ],
        "newModules": [
-          "Fixed anti report sending 3 notifications instead of just 1"
+          ""
   ],
        "removedModules": [""],
-       "notes": ""
+       "notes": "Kick All V2 and kick gun might not fully work as it has been partially patched ;("
      },
        "2.0.6": {
        "title": "V2.0.6 Update",
