@@ -6,7 +6,6 @@
         "ESP now shows live player colors (tagged/infected colors update in real time)",
         "Hop Server now has an optional keybind",
         "Modules won't crash the menu if they have errors",
-        "Macro Routes now rotates your body during playback"
     ],
     "newModules": [
         "Macro Routes - Record and replay your movement"
