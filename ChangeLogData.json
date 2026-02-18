@@ -1,5 +1,26 @@
 {
    "changelogs": {
+      "2.0.9": {
+       "title": "Movement Modules & Bug Fixes",
+       "features": [
+         "Fixed Macro Routes not saving routes",
+       ],
+       "newModules": [
+         "Dash Burst",
+         "Glide",
+         "Air Strafe Assist",
+         "Wall Rebound",
+         "Sticky Hands",
+         "Hover Pulse",
+         "Route Trails",
+         "Waypoints",
+         "HUD Stats",
+         "Airbrake"
+       ],
+       "removedModules": [
+       ],
+       "notes": "Report bugs in the discord server!"
+     },
              "2.0.8": {
     "title": "V2.0.8 Update",
     "features": [
