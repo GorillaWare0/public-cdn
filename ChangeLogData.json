@@ -1,5 +1,25 @@
 {
    "changelogs": {
+      "2.0.11": {
+        "title": "UI Overhaul & Stability Fixes",
+        "features": [
+          "Fixed Fling Gun",
+          "Fixed Fling Aura",
+          "Fixed Projectile Mods",
+          "PC UI/UX improvements",
+          "Module List and HUD Stats redesigned and can now be repositioned with mouse",
+          "Fixed settings bugs",
+          "Optimizations for lag reduction",
+          "Enabled Category and Favorite system",
+          "Crash Server, Freeze Server, etc. now have settings to change delay and intensity to prevent getting kicked for ratelimit",
+          "Rate limit kick detection and notification",
+          "Added setting to disable notification sounds",
+          "Added setting to disable join/leave notifications"
+        ],
+        "newModules": [],
+        "removedModules": [],
+        "notes": "Major UI/UX and stability update. Customize server crash/freeze settings to avoid ratelimit kicks."
+      },
       "2.0.9": {
        "title": "Movement Modules & Bug Fixes",
        "features": [
