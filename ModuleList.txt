@@ -1,0 +1,190 @@
+GorillaWare V2.0.11
+March 5, 2026 | 157 Modules
+================================================
+
+CORE (8)
+------------------------------------------------
+UI                    - Enter settings to change the UI
+PC UI                 - PC interface
+Text UI               - Navigate modules and settings
+Wrist Menu            - UI you can use with your hand
+Pointer System        - Player targeting system for modules
+PC Emulation          - Makes you able to press controller buttons on PC
+Ingame Mouse          - Makes you able to click stuff in game
+First Person Camera   - First person camera from head position with adjustable FOV
+
+MOVEMENT (22)
+------------------------------------------------
+Airbrake              - Dampens momentum for controlled stops while held
+Air Strafe Assist     - Better mid-air lateral control with A/D or left stick
+Dash Burst            - Quick forward burst
+Fly                   - Fly around like superman with optional noclip
+Freecam               - Fly around using WASD + right mouse button to look
+Glide                 - Reduces fall speed and smooths air control
+Hover Pulse           - Quick upward lift pulses for traversal
+Long Arms             - Extend your arm reach
+Macro Routes          - Record & replay movement routes
+Noclip                - Disables all colliders
+Platforms             - Walk on air with platforms
+Route Trails          - Shows saved Macro Routes as colored trails
+Slide Control         - Better control on ice
+Speed Boost           - Adjustable speed boost with mode switching
+Spider Monk           - Grapple like spiderman
+Sticky Hands          - Hands stick to surfaces for hanging and controlled movement
+Teleport Gun          - Point and teleport to any surface
+Teleport To Player    - Point and teleport to a player
+Walk Simulator        - WASD & Mouse to move
+Wall Rebound          - Bounces off walls on contact
+Wall Walk             - Walk on walls and ceilings
+Waypoints             - Save and teleport to per-map waypoints
+
+VISUAL (13)
+------------------------------------------------
+ESP                   - Highlights other players through walls
+HUD Stats             - Displays FPS, ping, room, player count, and map as overlay
+Boost FPS             - Low quality graphics to improve FPS
+Module List           - Display enabled modules with gradient colors
+Movement Prediction   - Predicts players' movement including downward motion
+Nametag ESP           - Shows nametags above players' heads
+Tracer to Nearest     - Draws tracers to nearest player
+Remove Forest Leaves  - Deletes the forest map's leaves
+Skeleton ESP          - Draws skeleton lines on players
+Voice Indicator       - Show speaker icon above player head when talking
+Target Tracers        - Draws tracers to targets depending on gamemode
+Tracers               - Draws tracers to everyone
+Trail ESP             - Leaves a trail behind all players
+
+OP (29)
+------------------------------------------------
+Blind All             - Makes everyone not able to see
+Blind Gun             - Makes the shot player not able to see
+Crash Gun             - Crash people you shoot
+Crash Server          - Crashes the whole server
+Close Room            - Kicks everyone from the room
+Deafen All            - Makes everyone not hear anyone else
+Deafen Gun            - Makes shot player not able to hear anyone
+Elevator Kick All     - Kicks everyone in the elevator
+Elevator Kick Gun     - Kicks shot player if they're in the elevator
+Fling Aura            - Flings players who get close to you
+Fling Gun             - Flings whoever your pointer targets
+Freeze Server         - Freezes the whole server
+Kick All              - Kicks everyone in the room
+Kick All V2           - Kicks everyone (alternate method)
+Kick Gun              - Kicks shot player
+Kick Masterclient     - Kicks the player on top of the leaderboard
+Kick On Join          - Kicks players who just joined the room
+Lag Aura              - Lagspikes closest player
+Lag Gun               - Lagspikes shot player
+Lag Masterclient      - Makes the host of the room lag
+Lag Server            - Makes the whole server lag
+Lock Room             - Makes it so no one else can join
+Mute Server           - Mutes everyone in the server
+Projectile Gun        - Shoots selected projectile at target
+Projectile Spam       - Spams selected projectile
+Stump Kick All        - Kicks everyone in stump
+Stump Kick Gun        - Kicks shot player if they're in stump
+Unblind Gun           - Makes the shot player able to see again
+Unlock Room           - Makes it so other people can join
+
+TROLLING (24)
+------------------------------------------------
+Copy Gun              - Copies the identity of the player you shoot at
+Critter Gun           - Spawns critters at gun position
+Critter Noise Maker   - Spams the critter noise maker effect
+Critter Shockwave     - Spams the critter shockwave effect
+Critter Spam          - Spams critters at your hand
+Critter Sticky        - Spams the critter sticky effect
+Critter Stun          - Spams the critter stun effect
+Earrape Sound Spam    - Spams a loud sound for everyone in the lobby
+Ghost Monkey          - Allows you to go out of your body
+Grab All Balloons     - Grabs all balloons in the lobby
+Helicopter Monke      - Spins you around like a helicopter
+Hide On Leaderboard   - Hides you on the leaderboard
+Invisible Monkey      - Allows you to appear invisible
+Pop All Balloons      - Pops all balloons in the lobby
+Random Identity       - Changes your name and color randomly
+RGB Monk              - Animates your skin color
+Skateboard Spam       - Spams skateboard at your position
+Snowball Effect Gun   - Spawns snowball effect on player
+Sound Spam            - Spams random sounds for everyone
+Spaz All Balloons     - Makes all balloons spaz out
+Spaz Cosmetics        - Randomly changes your cosmetics
+Stump Effect Spam     - Spams the stump teleport effect
+Water Around Player   - Spams water splashes around you
+Water Bender          - Spams water splashes
+
+TAGGING (9)
+------------------------------------------------
+Anti Tag              - Avoid being tagged by spoofing position
+Flick Tag             - Flick hand to tag nearby players
+Pop All Balloons      - Pops everyone's balloons in paintbrawl
+Slingshot Aimbot      - Aimbot in the paintbrawl mode
+Tag All               - Tag all players in the room
+Tag Aura              - Tag all players close to you
+Tag Gun               - Point and click to tag players
+Tag Self              - Tags yourself automatically
+Untag All             - Clears infected list (requires master client)
+
+MASTER (17)
+------------------------------------------------
+Bonk Sound Spam       - Spams really loud sounds
+Freeze All            - Freezes everyone and vibrates controllers
+Material All          - Makes everyone flash material
+Material Gun          - Makes shot player flash material
+Material Self         - Flashes your material
+Paintbrawl Balloon Spam - Spams balloons in Paintbrawl
+Paintbrawl God Mode   - God mode in Paintbrawl
+Paintbrawl Start Spam - Spam restarts the gamemode
+Slow All              - Slows down all other players
+Sound Spam            - Spams really loud sounds
+Spam Pop Balloons     - Spams the balloons in paintbrawl
+Spaz Prophunt         - Spams the prophunt gamemode
+Spaz Prophunt Objects - Spams the prophunt objects
+Tag Sound Spam        - Spams really loud sounds for tagging
+Target Spam           - Spams the targets
+Toggle Infection Mode - Toggles infection mode
+Vibrate Controllers All - Vibrates everyone's controllers
+
+MISC (21)
+------------------------------------------------
+Anti Report           - Detects and responds to report attempts
+Blaster Aimbot        - For Super Infection Blaster gadget
+Blaster Control Gun   - For Super Infection Blaster gadget
+Blaster Crash Gun     - For Super Infection Blaster gadget
+Blaster Fling All     - For Super Infection Blaster gadget
+Blaster Fling Gun     - For Super Infection Blaster gadget
+Blaster Laser Spam    - For Super Infection Blaster gadget
+Blaster No Cooldown   - Removes cooldown for Super Infection Blaster
+Change Hertz          - Sets your hertz to your desired number
+Disable Join/Leave    - Hides player join and leave notifications
+Disable Notif Sounds  - Mutes notification sound effects
+Disable Rain          - Disables rain
+Gadget Spam           - For Super Infection
+Hop Server            - Hop to a new room in the same map
+Infinite Jet Fuel     - For Super Infection gamemode
+Infinite Platform     - For Super Infection gamemode
+Loud Mic              - Makes you very loud for other players
+Low Quality Mic       - Makes your mic low quality for other players
+Mute All              - Mutes everyone in the lobby
+Rejoin                - Rejoin the last room
+Unlock All Gadgets    - Unlocks all gadgets
+
+MAPS (14)
+------------------------------------------------
+TP Arcade             - Teleport to Arcade
+TP Basement           - Teleport to Basement
+TP Bayou              - Teleport to Bayou
+TP Beach              - Teleport to Beach
+TP Canyons            - Teleport to Canyons
+TP Caves              - Teleport to Caves
+TP City               - Teleport to City
+TP Clouds             - Teleport to Clouds
+TP Critters           - Teleport to Critters
+TP Forest             - Teleport to Forest
+TP Metropolis         - Teleport to Metropolis
+TP Mountains          - Teleport to Mountains
+TP Rotating           - Teleport to Rotating
+TP Virtual Stump      - Teleport to Virtual Stump
+
+================================================
+Total: 157 modules across 9 categories
