@@ -206,6 +206,26 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "2.0.13": {
+      "title": "V2.0.13 Update",
+      "features": [
+        "Hoverboard physics",
+        "Barrel Cannon Gun",
+        "Fortnute teller spam",
+        "drum spam",
+        "size changer",
+        "monkeball exploits",
+        "competetive tools",
+        "Fixed: fling gun",
+        "Fixed: projectiles",
+        "Fixed: fling aura",
+        "Fixed: visual mods",
+        "Fixed: pointer system"
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
