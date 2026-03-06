@@ -1,186 +1,211 @@
 {
-   "changelogs": {
-      "2.0.11": {
-        "title": "UI Overhaul & Stability Fixes",
-        "features": [
-          "Fixed Fling Gun",
-          "Fixed Fling Aura",
-          "Fixed Projectile Mods",
-          "PC UI/UX improvements",
-          "Module List and HUD Stats redesigned and can now be repositioned with mouse",
-          "Fixed settings bugs",
-          "Optimizations for lag reduction",
-          "Enabled Category and Favorite system",
-          "Crash Server, Freeze Server, etc. now have settings to change delay and intensity to prevent getting kicked for ratelimit",
-          "Rate limit kick detection and notification",
-          "Added setting to disable notification sounds",
-          "Added setting to disable join/leave notifications"
-        ],
-        "newModules": [],
-        "removedModules": [],
-        "notes": "Major UI/UX and stability update. Customize server crash/freeze settings to avoid ratelimit kicks."
-      },
-      "2.0.9": {
-       "title": "Movement Modules & Bug Fixes",
-       "features": [
-          "Fixed Macro Routes not saving routes"
-        ],
-       "newModules": [
-         "Dash Burst",
-         "Glide",
-         "Air Strafe Assist",
-         "Wall Rebound",
-         "Sticky Hands",
-         "Hover Pulse",
-         "Route Trails",
-         "Waypoints",
-         "HUD Stats",
-         "Airbrake"
-       ],
-       "removedModules": [
-       ],
-       "notes": "Report bugs in the discord server!"
-     },
-             "2.0.8": {
-    "title": "V2.0.8 Update",
-    "features": [
+  "changelogs": {
+    "2.0.11": {
+      "title": "UI Overhaul \u0026 Stability Fixes",
+      "features": [
+        "Fixed Fling Gun",
+        "Fixed Fling Aura",
+        "Fixed Projectile Mods",
+        "PC UI/UX improvements",
+        "Module List and HUD Stats redesigned and can now be repositioned with mouse",
+        "Fixed settings bugs",
+        "Optimizations for lag reduction",
+        "Enabled Category and Favorite system",
+        "Crash Server, Freeze Server, etc. now have settings to change delay and intensity to prevent getting kicked for ratelimit",
+        "Rate limit kick detection and notification",
+        "Added setting to disable notification sounds",
+        "Added setting to disable join/leave notifications"
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": "Major UI/UX and stability update. Customize server crash/freeze settings to avoid ratelimit kicks."
+    },
+    "2.0.9": {
+      "title": "Movement Modules \u0026 Bug Fixes",
+      "features": [
+        "Fixed Macro Routes not saving routes"
+      ],
+      "newModules": [
+        "Dash Burst",
+        "Glide",
+        "Air Strafe Assist",
+        "Wall Rebound",
+        "Sticky Hands",
+        "Hover Pulse",
+        "Route Trails",
+        "Waypoints",
+        "HUD Stats",
+        "Airbrake"
+      ],
+      "removedModules": [],
+      "notes": "Report bugs in the discord server!"
+    },
+    "2.0.8": {
+      "title": "V2.0.8 Update",
+      "features": [
         "ESP now shows live player colors (tagged/infected colors update in real time)",
         "Hop Server now has an optional keybind",
-        "Modules won't crash the menu if they have errors"
-    ],
-    "newModules": [
+        "Modules won\u0027t crash the menu if they have errors"
+      ],
+      "newModules": [
         "Macro Routes - Record and replay your movement"
-    ],
-    "removedModules": [""],
-    "notes": "Bug fixes and stability improvements"
-},
-       "2.0.7": {
-       "title": "V2.0.7 Update",
-       "features": [
-          "You can now change settings on the wristmenu",
-          "Fixed (improved) kick all v2 and kick gun for the new game update",
-          "Fixed (improved) kick master client for new game update",
-          "Fixed anti report sending 3 notifications instead of just 1"
-       ],
-       "newModules": [
-          ""
-  ],
-       "removedModules": [""],
-       "notes": "Kick All V2 and kick gun might not fully work as it has been partially patched ;("
-     },
-       "2.0.6": {
-       "title": "V2.0.6 Update",
-       "features": [
-          "Improved the wristmenu, shows keybinds for module in tooltip",
-          "Buttons are better sorted/organized",
-          "Fixed edge case button color not updating if module is disabled/enabled",
-          "Removed detected lag mods",
-          "Fixed detected mods",
-          "Improved Lag Aura"
-       ],
-       "newModules": [
-          "Kick master client is undetected",
-          "Kick All is undetected",
-          "Lag Gun, Aura, Server remain undetected"
-  ],
-       "removedModules": ["Lag Mods (V2)"],
-       "notes": ""
-     },
-      "2.0.5": {
-       "title": "New overpowered mods!",
-       "features": [
-         "Fixed menu for gorilla tag update",
-          "Loads of new OP mods to troll with",
-          "Fixed Fling Gun"
-       ],
-       "newModules": [
-   "Kick All V2",
-"Kick Gun",
-          "Crash Server",
-          "Freeze All",
-          "Kick On Join",
-          "Lag Closest V2",
-          "Lag All V2",
-          "Lag Gun V2",
-          "Lag Master Client",
-          "Mute Server",
-          "Deafen Gun",
-          "Deafen All",
-          "Close Room",
-          "Lock Room",
-          "Unlock Room",
-          "Blind Gun",
-          "Blind All",
-          "Unblind Gun"
-  ],
-       "removedModules": [],
-       "notes": ""
-     },
-       "2.0.4": {
-       "title": "Kick Master, removed patched mods",
-       "features": [
-         "Fixed kick master, and it now works in all gamemodes.",
-          "Lag spike closest, useful for playing legit. You can lagspike the player that is trying to tag you.",
-          "Fixed some module requirements, like master mods that didn't have the correct requirements set."
-       ],
-       "newModules": [
-   "Kick Master Client",
-"Nametag ESP Colored names option",
-          "Lagspike closest"
-  ],
-       "removedModules": [],
-       "notes": "Kick master can sometimes kick you from the lobby (rate limit) and it doesn't work on all players, if they have a good wifi for example :( \nCurrently not sure if fling gun and projectile mods are working. Working on a fix."
-     },
-       "2.0.3": {
-       "title": "New tutorial & welcome screen",
-       "features": [
-         "New tutorial to show how everything works",
-          "Welcome screen for new users",
-          "New sound effects for notifications and wristmenu"
-       ],
-       "newModules": [
-   "Made Pointer/Gun System better, added lock-on feature",
-          "Fix Voice Indicators",
-          "Fix Module List, also shows on pc now",
-          "Fix blaster mods (might require master to work properly)",
-          "WristMenu pointer fix",
-          "Ghost Monke fix",
-          "Invis Monke fix"
-  ],
-       "removedModules": ["Ghost Reactor Freeze All"],
-       "notes": "View tutorial in settings tab"
-     },
-     "2.0.2": {
-       "title": "Settings System Overhaul & Changelog UI",
-       "features": [
-         "Export/Import settings to share with others",
-         "Automatic backups to prevent data loss",
-         "This UI showing what's changed on update"
-       ],
-       "newModules": [
-    "Lag gun",
-    "Lag player (PCUI)",
-    "Freeze All Ghost Reactor",
-    "Blaster Aimbot",
-    "Blaster Control Gun",
-    "Blaster Fling Gun",
-    "Blaster Laser Spam",
-    "Blaster No Cooldown",
-    "Blaster Crash Gun",
-    "Blaster Fling All",
-    "Infinite Fuel",
-    "Infinite Platform",
-    "Unlock All Gadgets"
-  ],
-       "removedModules": [],
-       "notes": "Settings now stored in GorillaWare/Settings/"
-     },
-     "1.0.0": {
-       "title": "Initial Release",
-       "features": ["First public release"],
-       "newModules": [],
-       "removedModules": [],
-       "notes": ""
-     }
-   }
- }
+      ],
+      "removedModules": [
+        ""
+      ],
+      "notes": "Bug fixes and stability improvements"
+    },
+    "2.0.7": {
+      "title": "V2.0.7 Update",
+      "features": [
+        "You can now change settings on the wristmenu",
+        "Fixed (improved) kick all v2 and kick gun for the new game update",
+        "Fixed (improved) kick master client for new game update",
+        "Fixed anti report sending 3 notifications instead of just 1"
+      ],
+      "newModules": [
+        ""
+      ],
+      "removedModules": [
+        ""
+      ],
+      "notes": "Kick All V2 and kick gun might not fully work as it has been partially patched ;("
+    },
+    "2.0.6": {
+      "title": "V2.0.6 Update",
+      "features": [
+        "Improved the wristmenu, shows keybinds for module in tooltip",
+        "Buttons are better sorted/organized",
+        "Fixed edge case button color not updating if module is disabled/enabled",
+        "Removed detected lag mods",
+        "Fixed detected mods",
+        "Improved Lag Aura"
+      ],
+      "newModules": [
+        "Kick master client is undetected",
+        "Kick All is undetected",
+        "Lag Gun, Aura, Server remain undetected"
+      ],
+      "removedModules": [
+        "Lag Mods (V2)"
+      ],
+      "notes": ""
+    },
+    "2.0.5": {
+      "title": "New overpowered mods!",
+      "features": [
+        "Fixed menu for gorilla tag update",
+        "Loads of new OP mods to troll with",
+        "Fixed Fling Gun"
+      ],
+      "newModules": [
+        "Kick All V2",
+        "Kick Gun",
+        "Crash Server",
+        "Freeze All",
+        "Kick On Join",
+        "Lag Closest V2",
+        "Lag All V2",
+        "Lag Gun V2",
+        "Lag Master Client",
+        "Mute Server",
+        "Deafen Gun",
+        "Deafen All",
+        "Close Room",
+        "Lock Room",
+        "Unlock Room",
+        "Blind Gun",
+        "Blind All",
+        "Unblind Gun"
+      ],
+      "removedModules": [],
+      "notes": ""
+    },
+    "2.0.4": {
+      "title": "Kick Master, removed patched mods",
+      "features": [
+        "Fixed kick master, and it now works in all gamemodes.",
+        "Lag spike closest, useful for playing legit. You can lagspike the player that is trying to tag you.",
+        "Fixed some module requirements, like master mods that didn\u0027t have the correct requirements set."
+      ],
+      "newModules": [
+        "Kick Master Client",
+        "Nametag ESP Colored names option",
+        "Lagspike closest"
+      ],
+      "removedModules": [],
+      "notes": "Kick master can sometimes kick you from the lobby (rate limit) and it doesn\u0027t work on all players, if they have a good wifi for example :( \nCurrently not sure if fling gun and projectile mods are working. Working on a fix."
+    },
+    "2.0.3": {
+      "title": "New tutorial \u0026 welcome screen",
+      "features": [
+        "New tutorial to show how everything works",
+        "Welcome screen for new users",
+        "New sound effects for notifications and wristmenu"
+      ],
+      "newModules": [
+        "Made Pointer/Gun System better, added lock-on feature",
+        "Fix Voice Indicators",
+        "Fix Module List, also shows on pc now",
+        "Fix blaster mods (might require master to work properly)",
+        "WristMenu pointer fix",
+        "Ghost Monke fix",
+        "Invis Monke fix"
+      ],
+      "removedModules": [
+        "Ghost Reactor Freeze All"
+      ],
+      "notes": "View tutorial in settings tab"
+    },
+    "2.0.2": {
+      "title": "Settings System Overhaul \u0026 Changelog UI",
+      "features": [
+        "Export/Import settings to share with others",
+        "Automatic backups to prevent data loss",
+        "This UI showing what\u0027s changed on update"
+      ],
+      "newModules": [
+        "Lag gun",
+        "Lag player (PCUI)",
+        "Freeze All Ghost Reactor",
+        "Blaster Aimbot",
+        "Blaster Control Gun",
+        "Blaster Fling Gun",
+        "Blaster Laser Spam",
+        "Blaster No Cooldown",
+        "Blaster Crash Gun",
+        "Blaster Fling All",
+        "Infinite Fuel",
+        "Infinite Platform",
+        "Unlock All Gadgets"
+      ],
+      "removedModules": [],
+      "notes": "Settings now stored in GorillaWare/Settings/"
+    },
+    "1.0.0": {
+      "title": "Initial Release",
+      "features": [
+        "First public release"
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
+    },
+    "2.0.12": {
+      "title": "V2.0.12 Update",
+      "features": [
+        "soundboard, add your own sounds in GorillaWare/Sounds/ folder",
+        "microphone mods",
+        "spectate gun",
+        "cosmetic mods",
+        "building block mods",
+        "hoverboard mods",
+        "custom map mods",
+        "more actions to do on specific player: tag, copy, mute, etc."
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
+    }
+  }
+}
