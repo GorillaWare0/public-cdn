@@ -58,7 +58,6 @@ OP (29)
 ------------------------------------------------
 Blind All             - Makes everyone not able to see
 Blind Gun             - Makes the shot player not able to see
-Crash Gun             - Crash people you shoot
 Crash Server          - Crashes the whole server
 Close Room            - Kicks everyone from the room
 Deafen All            - Makes everyone not hear anyone else
