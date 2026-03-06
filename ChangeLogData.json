@@ -23,8 +23,8 @@
       "2.0.9": {
        "title": "Movement Modules & Bug Fixes",
        "features": [
-         "Fixed Macro Routes not saving routes",
-       ],
+          "Fixed Macro Routes not saving routes"
+        ],
        "newModules": [
          "Dash Burst",
          "Glide",
@@ -46,7 +46,7 @@
     "features": [
         "ESP now shows live player colors (tagged/infected colors update in real time)",
         "Hop Server now has an optional keybind",
-        "Modules won't crash the menu if they have errors",
+        "Modules won't crash the menu if they have errors"
     ],
     "newModules": [
         "Macro Routes - Record and replay your movement"
