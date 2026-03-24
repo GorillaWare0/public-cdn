@@ -226,6 +226,28 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "2.0.14": {
+      "title": "V2.0.14 Update",
+      "features": [
+        "infection stats hud",
+        "stats hud",
+        "option to favorite module (favorites category)",
+        "enabled modules category",
+        "Fixed: Enabled category showing core (always enabled modules, not needed)",
+        "Fixed: WristMenu settings favorite bug",
+        "Fixed: Default fly button to B",
+        "Fixed: backend stuff",
+        "Fixed: bugs",
+        "Fixed: fling gun"
+      ],
+      "newModules": [],
+      "removedModules": [
+        "remove forest leaves, there are no leaves",
+        "elevator kick mods, patched",
+        "blind mods, patched"
+      ],
+      "notes": ""
     }
   }
 }
