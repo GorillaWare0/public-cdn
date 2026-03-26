@@ -248,6 +248,20 @@
         "blind mods, patched"
       ],
       "notes": ""
+    },
+    "2.0.15": {
+      "title": "V2.0.15 Update",
+      "features": [
+        "Menu Search Function (BETA)",
+        "Flood Server",
+        "Disconnect message when kicked for rate limit",
+        "Fixed: Freeze server",
+        "Fixed: Fling Gun",
+        "Fixed: Projectiles"
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
