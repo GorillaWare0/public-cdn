@@ -272,6 +272,25 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "3.0": {
+      "title": "V3.0 Update",
+      "features": [
+        "DECK UI",
+        "Improved Fling",
+        "Lock room",
+        "Text to speech",
+        "Config system",
+        "Soundboard",
+        "More..."
+      ],
+      "newModules": [],
+      "removedModules": [
+        "Kick all",
+        "Kick gun",
+        "Freeze server"
+      ],
+      "notes": ""
     }
   }
 }
