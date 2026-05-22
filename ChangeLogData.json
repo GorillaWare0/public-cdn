@@ -291,6 +291,36 @@
         "Freeze server"
       ],
       "notes": ""
+    },
+    "3.1": {
+      "title": "V3.1 Update",
+      "features": [
+        "Soundboard controls, seek, pause, keybinds.",
+        "Text to speech improvements",
+        "Anti AFK",
+        "Anti Hand Tap",
+        "Disable Quit Box",
+        "Disable Map Triggers",
+        "Disable Network Triggers",
+        "Time Of Day",
+        "Fullbright",
+        "Auto Walk",
+        "Auto Branch",
+        "Grip Force",
+        "Grip Fling",
+        "Grip Kick",
+        "Grip Crash",
+        "Grip Move To Point",
+        "Grip Give Fly",
+        "Grip Shoot",
+        "Fixed: Fixed Deck UI collider issues",
+        "Fixed: Fixed Deck UI sometiems opening on PC when should be on VR",
+        "Fixed: Fixed Deck UI VR Modules dissapearing",
+        "Fixed: Fixed more Deck UI bugs and made other ui improvements"
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
