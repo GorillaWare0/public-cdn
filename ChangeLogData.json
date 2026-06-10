@@ -321,6 +321,33 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "3.2": {
+      "title": "V3.2 Update",
+      "features": [
+        "**Grab Fling** - hold a keybind to fling any player gripping you; Auto Grab mode picks the closest player automatically.",
+        "**Grab Force** - hold a keybind to force-grab up to two gripping players; release to drop them.",
+        "**Grab Pull** (Reel In) - reel gripping players toward you on hold.",
+        "**Grab Tornado** - make gripping players orbit wildly around you on hold.",
+        "Wrist menu now shows the active keybind in each module title.",
+        "Wrist menu: inline search view with on-screen VR keyboard, replacing the old separate search panel.",
+        "Deck UI overhauled: emerald color theme, keyboard navigation, improved search \u002B category filters, refreshed home-dashboard layout.",
+        "Deck UI is now resizable to a smaller minimum size; header and inspector panel adapt responsively and hide when the panel is too small.",
+        "Module list on PC uses normal-weight text with a drop shadow and tighter padding for a crisper look.",
+        "Gun-type modules (Fling Gun, Tag Gun, Copy Gun, Critters Spam Gun, Hoverboard Gun) now delegate cooldown tracking to the pointer system, removing duplicate cooldown logic.",
+        "Fixed: - Fixed wrist menu sounds and haptics not playing.",
+        "Fixed: - Fixed wrist menu keybind capture: held inputs are suppressed at rebind start and the capture clears on timeout instead of keeping a stale bind.",
+        "Fixed: - Fixed wrist menu settings view randomly re-ordering module buttons after a setting change.",
+        "Fixed: - Fixed wrist menu not opening after switching between PC and VR mode.",
+        "Fixed: - Fixed Deck UI VR interaction bugs and a stuck input gate that blocked re-opening the panel.",
+        "Fixed: - Removed auto-focus of the search bar when the Deck UI opens.",
+        "Fixed: - \u0060Low Quality Mic\u0060 now properly applies and restores the recorder\u0027s sampling rate and bitrate."
+      ],
+      "newModules": [],
+      "removedModules": [
+        "Old Grab Modules"
+      ],
+      "notes": "Coming soon: Barrel cosmetic OP modules (Barrel Fling, Barrel Launch, Barrel Bring, Barrel Kick, Barrel Crash) - work in progress."
     }
   }
 }
