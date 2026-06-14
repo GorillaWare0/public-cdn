@@ -348,6 +348,53 @@
         "Old Grab Modules"
       ],
       "notes": "Coming soon: Barrel cosmetic OP modules (Barrel Fling, Barrel Launch, Barrel Bring, Barrel Kick, Barrel Crash) - work in progress."
+    },
+    "3.3": {
+      "title": "V3.3 Update",
+      "features": [
+        "Room Controls Unlock - unlocks room control modules.",
+        "Silence Gun [M] - mutes the player you point at.",
+        "Unsilence Gun [M] - unmutes the player you point at.",
+        "Kick Gun [M] - kicks the player you point at.",
+        "Block Gun [M] - blocks the player you point at from rejoining.",
+        "Launch Gun - launches the player you point at.",
+        "Launch All - launches every player in the room.",
+        "Dig Gun - carves or builds terrain where you point.",
+        "Scavenger Complete - completes scavenger hunts for you.",
+        "Full Body Tracking - unlocks full-body tracking.",
+        "Forwards Body - pitches your body forward.",
+        "Backwards Body - makes your body face backwards.",
+        "Crawling Body - makes your body crawl on the ground.",
+        "Upside Down Body - flips your body upside down.",
+        "Spaz Body - jitters your body and head.",
+        "Full Spin Bot - spins your whole rig.",
+        "Upside Down Spin Bot - spins your rig while upside down.",
+        "Force Tag Effect Gun - forces tag effects onto players.",
+        "Tappable Spam - spams tappable objects around the map.",
+        "Cosmetic Flood - floods other players with cosmetic updates.",
+        "Flag Recolor - recolors all plantable flags in the room.",
+        "Flag Crash Gun - crashes the player you point at on flag maps.",
+        "Flag Crash All - crashes everyone else on flag maps.",
+        "Paint Splat Gun - shoots paint splats where you point.",
+        "Surface Earrape - spams loud surface-hit sounds for other players.",
+        "Rope Spaz - makes ropes thrash around.",
+        "Rope Yeet - launches ropes in the selected direction.",
+        "Rope Crash - crashes players on maps with legacy ropes.",
+        "Fixed: Fixed default VR keybinds not working.",
+        "Fixed: Fixed Deck UI default width so the inspector shows.",
+        "Fixed: Fixed sound-spam modules using bad sound indices and unclear volume settings.",
+        "Fixed: Fixed module export generation.",
+        "Fixed: Reset settings for v3.3 defaults.",
+        "Fixed: Improved Dig Gun bounds and cooldowns.",
+        "Fixed: Improved room control bypass behavior.",
+        "Fixed: Improved module categories and Deck/Wrist UI ordering.",
+        "Fixed: Improved performance with runtime caching."
+      ],
+      "newModules": [],
+      "removedModules": [
+        "Removed Snowball Effect Gun; it has been replaced by Force Tag Effect Gun."
+      ],
+      "notes": ""
     }
   }
 }
