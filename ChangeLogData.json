@@ -395,6 +395,36 @@
         "Removed Snowball Effect Gun; it has been replaced by Force Tag Effect Gun."
       ],
       "notes": ""
+    },
+    "3.4": {
+      "title": "V3.4 Update",
+      "features": [
+        "Report Hider - re-slots you in the lobby so your report buttons are harder to reach on other players\u0027 scoreboards.",
+        "Customizable PC Deck UI layout - make the menu your own:",
+        "Create your own custom categories.",
+        "Rename, hide, and reorder the category tabs.",
+        "Drag to reorder modules inside any category.",
+        "Add modules to one or more custom categories.",
+        "Reset to the default layout at any time.",
+        "Your layout is saved in settings and restored on relaunch.",
+        "Fixed: Refreshed the Deck UI look: cleaner graphite/blue dark theme, rounded corners on category bars, enabled modules, and sliders.",
+        "Fixed: Improved module card selected/enabled states and description readability.",
+        "Fixed: Improved slider rounding, fill rendering, and accent colors.",
+        "Fixed: Fixed category drag-and-drop order resetting after UI rebuilds.",
+        "Fixed: Fixed selected category drag reorder snapping back.",
+        "Fixed: Fixed category renames only updating after switching tabs.",
+        "Fixed: Added visible typing/focus feedback for category rename inputs.",
+        "Fixed: Improved projectile launch planning and RPC throttling; cleaner separation of local display vs. remote sends.",
+        "Fixed: Improved Report Hider / Rejoin reliability by preserving the exact room code and retrying joins after leaving.",
+        "Fixed: Added room-full and join-failure notifications to the Room tab, Rejoin, and Report Hider flows.",
+        "Fixed: Report Hider now only notifies you when it actually acts.",
+        "Fixed: Improved DevUpdater release-note handling from \u0060CHANGELOG.md\u0060."
+      ],
+      "newModules": [],
+      "removedModules": [
+        "Nothing removed in v3.4."
+      ],
+      "notes": ""
     }
   }
 }
