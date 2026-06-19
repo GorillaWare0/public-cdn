@@ -425,6 +425,15 @@
         "Nothing removed in v3.4."
       ],
       "notes": ""
+    },
+    "3.5": {
+      "title": "V3.5 Update",
+      "features": [
+        "Barrel Mods - added Fling Gun, Fling All, Fling Closest, Fling Aura, Fling On Touch, and Anti Report."
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
