@@ -434,6 +434,22 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "3.6": {
+      "title": "V3.6 Update",
+      "features": [
+        "Cosmetic Spam - equips cosmetics and spams effects.",
+        "Cosmetics Cycler",
+        "Water Modules - added Water Aura and Water Spam for splash effects around you or from your hands.",
+        "Fixed: Fixed several trolling modules, their activation keybinds and modes.",
+        "Fixed: Improved sound and balloon modules."
+      ],
+      "newModules": [],
+      "removedModules": [
+        "Removed Report Hider [BETA] because the Gorilla Tag update fixed the scoreboard bug it depended on.",
+        "Removed outdated duplicate/broken trolling modules, including old hoverboard visual spam, old water spam, and old earrape sound spam."
+      ],
+      "notes": ""
     }
   }
 }
