@@ -450,6 +450,17 @@
         "Removed outdated duplicate/broken trolling modules, including old hoverboard visual spam, old water spam, and old earrape sound spam."
       ],
       "notes": ""
+    },
+    "3.7": {
+      "title": "V3.7 Update",
+      "features": [
+        "Grab Fling All",
+        "Grab Fling Gun",
+        "Fixed: Remade Grab mods, made them way better."
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
