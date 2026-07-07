@@ -461,6 +461,21 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "3.8": {
+      "title": "V3.8 Update",
+      "features": [
+        "First-run Deck UI tutorials - added separate PC and VR guided tours that introduce categories, modules, search, keybinds, room/player tools, and moving or resizing the panel.",
+        "Settings tools in Configs - added full settings export/import plus in-game backup restore, with automatic backup before imports.",
+        "What\u0027s New popup - shows release notes once after an update.",
+        "Popular Home section - new users now see starter module suggestions on the Home dashboard instead of an empty Recent section.",
+        "Fixed: Improved notification toast readability so longer messages fit better in PC and VR.",
+        "Fixed: Improved pointer-module HUD and switching hints so long module names stay readable and the active pointer module is clearer.",
+        "Fixed: Fixed VR joystick-click keybind detection on controllers where the SteamVR click state is unavailable."
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
