@@ -476,6 +476,17 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "4.0": {
+      "title": "V4.0 Update",
+      "features": [
+        "Fixed: Fixed Grab Fling, Grab Fling All, Grab Fling Gun, Grab Pull, and Grab Tornado after the latest Gorilla Tag update, including support for differently sized players.",
+        "Fixed: Fixed Time Of Day after Gorilla Tag changed its time-setting behavior.",
+        "Fixed: Fixed Tappable Spam compatibility with updated map tappables."
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
