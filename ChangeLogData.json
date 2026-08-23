@@ -487,6 +487,15 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "4.01": {
+      "title": "V4.01 Update",
+      "features": [
+        "Fixed: Anti report"
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
