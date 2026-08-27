@@ -496,6 +496,21 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "4.1": {
+      "title": "V4.1 Update",
+      "features": [
+        "Anti Slip - walk and climb on ice and slippery surfaces without slipping, with an adjustable Max Slip setting.",
+        "Joystick Fly (VR) - fly with the sticks: left stick moves, right stick climbs and descends, hover when idle, optional noclip and look-direction flying.",
+        "Added a bindable Recenter Deck keybind on the Deck UI module that snaps the VR panel back in front of you.",
+        "Fixed: Overhauled the VR Deck UI pointer to be far steadier and more forgiving: the laser is smoothed so controller jitter no longer shakes the dot (VR Pointer Smoothing setting), aim assist is wider and catches near-misses just off the panel edge (VR Pointer Aim Assist setting), clicks still land if the trigger pull nudges the laser off a button, hover gives a light haptic tick with a clearer hit dot, hit areas are larger, and a debounce stops slow trigger pulls from double-toggling."
+      ],
+      "newModules": [],
+      "removedModules": [
+        "Removed the Barrel modules (Fling Gun, Fling All, Fling Closest, Fling Aura, Fling On Touch, Anti Report, Add Barrel To Cart) because a Gorilla Tag update removed the barrel\u0027s colliders, so it can no longer knock players around.",
+        "Removed the Blaster modules (Blaster Aimbot, Blaster Control Gun, Blaster Fling Gun, Blaster Laser Spam, Blaster No Cooldown, Blaster Crash Gun, Blaster Fling All) because a Gorilla Tag update broke blasters."
+      ],
+      "notes": ""
     }
   }
 }
