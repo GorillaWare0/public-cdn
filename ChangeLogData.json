@@ -511,6 +511,16 @@
         "Removed the Blaster modules (Blaster Aimbot, Blaster Control Gun, Blaster Fling Gun, Blaster Laser Spam, Blaster No Cooldown, Blaster Crash Gun, Blaster Fling All) because a Gorilla Tag update broke blasters."
       ],
       "notes": ""
+    },
+    "4.2": {
+      "title": "V4.2 Update",
+      "features": [
+        "Handheld Deck (VR) - a wrist-anchored version of the full Deck UI: bind a key to raise it and navigate by touch, with an optional laser pointer.",
+        "Fixed: The VR Deck is now always visible through walls, your own hands, and Gorilla Tag\u0027s on-screen text instead of being hidden behind them."
+      ],
+      "newModules": [],
+      "removedModules": [],
+      "notes": ""
     }
   }
 }
