@@ -521,6 +521,21 @@
       "newModules": [],
       "removedModules": [],
       "notes": ""
+    },
+    "4.3": {
+      "title": "V4.3 Update",
+      "features": [
+        "Players tab - the Deck UI Players tab now has more actions: Spectate, Reel In, Fling, Release Grab, Mute Voice, Throw Snowball, Copy Cosmetics, Copy UserId, Clone Voice, and master-client actions (Kick, Silence, Unsilence, Kick \u002B Block, Freeze, Vibrate, Launch, Ghost, Revive, Make Guardian), plus live readouts like gamemode role, speaking state, and speed.",
+        "Popular section on Home - starter module suggestions now stay on the Home dashboard for everyone instead of only appearing for brand-new users.",
+        "Fixed: Fixed game freezes that could happen while a soundboard sound was playing through voice; one bad sound file could hard-freeze the whole game mid-transmission.",
+        "Fixed: Fixed Become Hoverboard, Global Hoverboard, Hoverboard Screen Gun, and Hoverboard Screen All after a Gorilla Tag update changed how hoverboard permission works.",
+        "Fixed: Fixed the menu switching to VR mode just because SteamVR or Oculus Link was running in the background; desktop sessions now stay in PC mode while you are using mouse and keyboard."
+      ],
+      "newModules": [],
+      "removedModules": [
+        "Removed the snowball fling modules (Fling Gun, Fling All, Fling Aura, Anti Report Fling) because a Gorilla Tag update removed projectile knockback, so snowballs can no longer knock players around."
+      ],
+      "notes": ""
     }
   }
 }
